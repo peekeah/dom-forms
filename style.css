@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: white
+}
+
+.container {
+    border-radius: 20px;
+}
+
+button {
+    margin: 10px 0;
+}
+
+label{
+    display: flex !important;
+    flex-direction: column;
+    margin: auto;
+    height: 100%;
+}
+
+select option{
+    color: black !important;
+} 
+
+td{
+    vertical-align: middle;
+}
